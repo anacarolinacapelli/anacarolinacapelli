@@ -1,12 +1,8 @@
- 
-### Ana Carolina Capelli dos Santos
-##
-
 ### Hello, Devs! 👋🏻
-
+##
 <img src="https://i.ibb.co/D5W2GT0/octocat-1712517316873.png" align="right">
 
-Me chamo Ana Carolina, tenho 27 anos, sou de Cascavel/PR, sou Técnica em Informática e Engenheira Eletricista. Pós graduanda em Gestão de Projetos e em Segurança da Informação.
+Me chamo Ana Carolina, tenho 27 anos, sou de Cascavel/PR, sou Técnica em Informática e Engenheira Eletricista. Pós-graduada em Gestão de Projetos e Segurança da Informação.
     
 Trabalho com programação desde os meus 16 anos de idade. Tive o meu primeiro contato no curso técnico e foi amor à primeira vista. Me sinto realizada em solucionar (e as vezes, criar) bugs. 
 
